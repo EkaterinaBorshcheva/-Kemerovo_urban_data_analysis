@@ -1,0 +1,966 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="geometry" attr.type="string" />
+  <key id="d13" for="edge" attr.name="desc" attr.type="string" />
+  <key id="d12" for="edge" attr.name="type" attr.type="string" />
+  <key id="d11" for="edge" attr.name="length_meter" attr.type="double" />
+  <key id="d10" for="edge" attr.name="time_min" attr.type="double" />
+  <key id="d9" for="node" attr.name="desc" attr.type="string" />
+  <key id="d8" for="node" attr.name="stop" attr.type="string" />
+  <key id="d7" for="node" attr.name="y" attr.type="double" />
+  <key id="d6" for="node" attr.name="x" attr.type="double" />
+  <key id="d5" for="graph" attr.name="bus speed" attr.type="double" />
+  <key id="d4" for="graph" attr.name="trolleybus speed" attr.type="double" />
+  <key id="d3" for="graph" attr.name="tram speed" attr.type="double" />
+  <key id="d2" for="graph" attr.name="subway speed" attr.type="double" />
+  <key id="d1" for="graph" attr.name="graph_type" attr.type="string" />
+  <key id="d0" for="graph" attr.name="crs" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0">
+      <data key="d6">441783.68</data>
+      <data key="d7">6136827.88</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="1">
+      <data key="d6">441692.93</data>
+      <data key="d7">6136703.82</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="2">
+      <data key="d6">441144.98</data>
+      <data key="d7">6135573.53</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="3">
+      <data key="d6">440921.18</data>
+      <data key="d7">6134938.94</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="4">
+      <data key="d6">440702.68</data>
+      <data key="d7">6134562.06</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="5">
+      <data key="d6">440499.4</data>
+      <data key="d7">6133990.53</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="6">
+      <data key="d6">440492.62</data>
+      <data key="d7">6133575.05</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="7">
+      <data key="d6">441337.1</data>
+      <data key="d7">6133536.27</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="8">
+      <data key="d6">441319.36</data>
+      <data key="d7">6134839.85</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="9">
+      <data key="d6">440946.72</data>
+      <data key="d7">6134975.62</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="10">
+      <data key="d6">440991.98</data>
+      <data key="d7">6135209.91</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="11">
+      <data key="d6">441127.02</data>
+      <data key="d7">6135517.87</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="12">
+      <data key="d6">442046.57</data>
+      <data key="d7">6137173.86</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="13">
+      <data key="d6">442051.77</data>
+      <data key="d7">6137180.75</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="14">
+      <data key="d6">442306.31</data>
+      <data key="d7">6138011.54</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="15">
+      <data key="d6">442312.76</data>
+      <data key="d7">6138028.73</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="16">
+      <data key="d6">443137.28</data>
+      <data key="d7">6138281.45</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="17">
+      <data key="d6">443405.03</data>
+      <data key="d7">6138448.61</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="18">
+      <data key="d6">443574.64</data>
+      <data key="d7">6138749.95</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="19">
+      <data key="d6">444079.76</data>
+      <data key="d7">6139650.49</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="20">
+      <data key="d6">444209.06</data>
+      <data key="d7">6139896.26</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="21">
+      <data key="d6">444457.53</data>
+      <data key="d7">6140326.6</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="22">
+      <data key="d6">444614.12</data>
+      <data key="d7">6140605.92</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="23">
+      <data key="d6">444721.91</data>
+      <data key="d7">6141210.28</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="24">
+      <data key="d6">444481.43</data>
+      <data key="d7">6141760.66</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="25">
+      <data key="d6">443949.79</data>
+      <data key="d7">6141931.12</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="26">
+      <data key="d6">443382.69</data>
+      <data key="d7">6142156.44</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="27">
+      <data key="d6">443985.52</data>
+      <data key="d7">6141913.9</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="28">
+      <data key="d6">444486.43</data>
+      <data key="d7">6141754.82</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="29">
+      <data key="d6">444716.56</data>
+      <data key="d7">6141211.04</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="30">
+      <data key="d6">444625.59</data>
+      <data key="d7">6140634.64</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="31">
+      <data key="d6">444466.8</data>
+      <data key="d7">6140351.8</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="32">
+      <data key="d6">444243.02</data>
+      <data key="d7">6139967.2</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="33">
+      <data key="d6">444080.77</data>
+      <data key="d7">6139659.21</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="34">
+      <data key="d6">443898.04</data>
+      <data key="d7">6139338.3</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="35">
+      <data key="d6">443642.57</data>
+      <data key="d7">6138879.04</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="36">
+      <data key="d6">443400.05</data>
+      <data key="d7">6138446.48</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="37">
+      <data key="d6">443126.54</data>
+      <data key="d7">6138281.29</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="38">
+      <data key="d6">442370.55</data>
+      <data key="d7">6138105.71</data>
+      <data key="d8">True</data>
+      <data key="d9">tram</data>
+    </node>
+    <node id="39">
+      <data key="d6">447802.51</data>
+      <data key="d7">6132213.81</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="40">
+      <data key="d6">448407.57</data>
+      <data key="d7">6132458.48</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="41">
+      <data key="d6">448904.45</data>
+      <data key="d7">6132552.66</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="42">
+      <data key="d6">448931.61</data>
+      <data key="d7">6132455.27</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="43">
+      <data key="d6">448000.33</data>
+      <data key="d7">6132313.89</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="44">
+      <data key="d6">448179.22</data>
+      <data key="d7">6132404.63</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="45">
+      <data key="d6">447770.11</data>
+      <data key="d7">6132276.82</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="46">
+      <data key="d6">447305.76</data>
+      <data key="d7">6133189.48</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="47">
+      <data key="d6">447116.28</data>
+      <data key="d7">6133559.47</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="48">
+      <data key="d6">446754.33</data>
+      <data key="d7">6133905.32</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="49">
+      <data key="d6">446358.46</data>
+      <data key="d7">6133705.62</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="50">
+      <data key="d6">445906.01</data>
+      <data key="d7">6133518.33</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="51">
+      <data key="d6">445422.92</data>
+      <data key="d7">6133517.01</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="52">
+      <data key="d6">443055.69</data>
+      <data key="d7">6133511.84</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="53">
+      <data key="d6">440641.06</data>
+      <data key="d7">6133489.77</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="54">
+      <data key="d6">441409.02</data>
+      <data key="d7">6133490.15</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="55">
+      <data key="d6">441709.05</data>
+      <data key="d7">6133779.3</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="56">
+      <data key="d6">441831.93</data>
+      <data key="d7">6134011.46</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="57">
+      <data key="d6">441854.32</data>
+      <data key="d7">6134064.03</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="58">
+      <data key="d6">441865.54</data>
+      <data key="d7">6134090.82</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="59">
+      <data key="d6">441878.14</data>
+      <data key="d7">6134120.91</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="60">
+      <data key="d6">441808.06</data>
+      <data key="d7">6134014.04</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="61">
+      <data key="d6">447766.02</data>
+      <data key="d7">6134964.21</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="62">
+      <data key="d6">447468.03</data>
+      <data key="d7">6134812.45</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="63">
+      <data key="d6">447167.09</data>
+      <data key="d7">6134659.18</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="64">
+      <data key="d6">446548.02</data>
+      <data key="d7">6134344.07</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="65">
+      <data key="d6">445924.98</data>
+      <data key="d7">6134027.74</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="66">
+      <data key="d6">445599.24</data>
+      <data key="d7">6133945.46</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="67">
+      <data key="d6">445138.96</data>
+      <data key="d7">6133944.32</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="68">
+      <data key="d6">444587.14</data>
+      <data key="d7">6133943.2</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="69">
+      <data key="d6">444090.35</data>
+      <data key="d7">6133942.01</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="70">
+      <data key="d6">443649.0</data>
+      <data key="d7">6133941.1</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="71">
+      <data key="d6">442958.69</data>
+      <data key="d7">6133897.96</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="72">
+      <data key="d6">442789.67</data>
+      <data key="d7">6133701.59</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="73">
+      <data key="d6">442153.75</data>
+      <data key="d7">6133509.28</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <node id="74">
+      <data key="d6">441329.76</data>
+      <data key="d7">6133507.92</data>
+      <data key="d8">True</data>
+      <data key="d9">trolleybus</data>
+    </node>
+    <edge source="0" target="1" id="0">
+      <data key="d10">1.67</data>
+      <data key="d11">168.1</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (441783.68 6136827.88, 441692.93 6136703.82)</data>
+    </edge>
+    <edge source="1" target="2" id="0">
+      <data key="d10">6.05</data>
+      <data key="d11">1261.34</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (441692.93 6136703.82, 441144.98 6135573.53)</data>
+    </edge>
+    <edge source="2" target="3" id="0">
+      <data key="d10">3.82</data>
+      <data key="d11">704.2</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (441144.98 6135573.53, 440921.18 6134938.94)</data>
+    </edge>
+    <edge source="3" target="4" id="0">
+      <data key="d10">2.81</data>
+      <data key="d11">452.16</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (440921.18 6134938.94, 440702.68 6134562.06)</data>
+    </edge>
+    <edge source="4" target="5" id="0">
+      <data key="d10">3.45</data>
+      <data key="d11">612.33</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (440702.68 6134562.06, 440499.4 6133990.53)</data>
+    </edge>
+    <edge source="5" target="6" id="0">
+      <data key="d10">2.66</data>
+      <data key="d11">415.68</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (440499.4 6133990.53, 440492.62 6133575.05)</data>
+    </edge>
+    <edge source="6" target="7" id="0">
+      <data key="d10">4.78</data>
+      <data key="d11">943.84</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (440492.62 6133575.05, 441337.1 6133536.27)</data>
+    </edge>
+    <edge source="7" target="8" id="0">
+      <data key="d10">6.34</data>
+      <data key="d11">1333.8</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (441337.1 6133536.27, 441319.36 6134839.85)</data>
+    </edge>
+    <edge source="8" target="9" id="0">
+      <data key="d10">2.6</data>
+      <data key="d11">400.24</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (441319.36 6134839.85, 440946.72 6134975.62)</data>
+    </edge>
+    <edge source="9" target="10" id="0">
+      <data key="d10">2.14</data>
+      <data key="d11">284.02</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (440946.72 6134975.62, 440991.98 6135209.91)</data>
+    </edge>
+    <edge source="10" target="11" id="0">
+      <data key="d10">2.35</data>
+      <data key="d11">336.31</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (440991.98 6135209.91, 441127.02 6135517.87)</data>
+    </edge>
+    <edge source="11" target="12" id="0">
+      <data key="d10">8.75</data>
+      <data key="d11">1938.66</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (441127.02 6135517.87, 442046.57 6137173.86)</data>
+    </edge>
+    <edge source="12" target="13" id="0">
+      <data key="d10">1.03</data>
+      <data key="d11">8.64</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (442046.57 6137173.86, 442051.77 6137180.75)</data>
+    </edge>
+    <edge source="13" target="14" id="0">
+      <data key="d10">4.57</data>
+      <data key="d11">891.8</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (442051.77 6137180.75, 442306.31 6138011.54)</data>
+    </edge>
+    <edge source="14" target="15" id="0">
+      <data key="d10">1.07</data>
+      <data key="d11">18.36</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (442306.31 6138011.54, 442312.76 6138028.73)</data>
+    </edge>
+    <edge source="15" target="16" id="0">
+      <data key="d10">4.54</data>
+      <data key="d11">886.24</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (442312.76 6138028.73, 443137.28 6138281.45)</data>
+    </edge>
+    <edge source="16" target="17" id="0">
+      <data key="d10">2.33</data>
+      <data key="d11">332.72</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443137.28 6138281.45, 443405.03 6138448.61)</data>
+    </edge>
+    <edge source="17" target="18" id="0">
+      <data key="d10">2.38</data>
+      <data key="d11">345.8</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443405.03 6138448.61, 443574.64 6138749.95)</data>
+    </edge>
+    <edge source="18" target="19" id="0">
+      <data key="d10">5.13</data>
+      <data key="d11">1032.57</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443574.64 6138749.95, 444079.76 6139650.49)</data>
+    </edge>
+    <edge source="19" target="20" id="0">
+      <data key="d10">2.11</data>
+      <data key="d11">277.73</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444079.76 6139650.49, 444209.06 6139896.26)</data>
+    </edge>
+    <edge source="20" target="21" id="0">
+      <data key="d10">2.99</data>
+      <data key="d11">496.95</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444209.06 6139896.26, 444457.53 6140326.6)</data>
+    </edge>
+    <edge source="21" target="22" id="0">
+      <data key="d10">2.28</data>
+      <data key="d11">320.23</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444457.53 6140326.6, 444614.12 6140605.92)</data>
+    </edge>
+    <edge source="22" target="23" id="0">
+      <data key="d10">3.66</data>
+      <data key="d11">663.91</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444614.12 6140605.92, 444721.91 6141210.28)</data>
+    </edge>
+    <edge source="23" target="24" id="0">
+      <data key="d10">3.52</data>
+      <data key="d11">629.95</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444721.91 6141210.28, 444481.43 6141760.66)</data>
+    </edge>
+    <edge source="24" target="25" id="0">
+      <data key="d10">3.23</data>
+      <data key="d11">558.3</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444481.43 6141760.66, 443949.79 6141931.12)</data>
+    </edge>
+    <edge source="25" target="26" id="0">
+      <data key="d10">3.52</data>
+      <data key="d11">630.84</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443949.79 6141931.12, 443382.69 6142156.44)</data>
+    </edge>
+    <edge source="26" target="27" id="0">
+      <data key="d10">4.28</data>
+      <data key="d11">819.23</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443382.69 6142156.44, 443985.52 6141913.9)</data>
+    </edge>
+    <edge source="27" target="28" id="0">
+      <data key="d10">3.1</data>
+      <data key="d11">525.57</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443985.52 6141913.9, 444486.43 6141754.82)</data>
+    </edge>
+    <edge source="28" target="29" id="0">
+      <data key="d10">3.47</data>
+      <data key="d11">617.29</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444486.43 6141754.82, 444716.56 6141211.04)</data>
+    </edge>
+    <edge source="29" target="30" id="0">
+      <data key="d10">3.53</data>
+      <data key="d11">632.31</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444716.56 6141211.04, 444625.59 6140634.64)</data>
+    </edge>
+    <edge source="30" target="31" id="0">
+      <data key="d10">2.3</data>
+      <data key="d11">324.38</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444625.59 6140634.64, 444466.8 6140351.8)</data>
+    </edge>
+    <edge source="31" target="32" id="0">
+      <data key="d10">2.78</data>
+      <data key="d11">444.98</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444466.8 6140351.8, 444243.02 6139967.2)</data>
+    </edge>
+    <edge source="32" target="33" id="0">
+      <data key="d10">2.39</data>
+      <data key="d11">348.13</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444243.02 6139967.2, 444080.77 6139659.21)</data>
+    </edge>
+    <edge source="33" target="34" id="0">
+      <data key="d10">2.48</data>
+      <data key="d11">369.29</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (444080.77 6139659.21, 443898.04 6139338.3)</data>
+    </edge>
+    <edge source="34" target="35" id="0">
+      <data key="d10">3.1</data>
+      <data key="d11">525.54</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443898.04 6139338.3, 443642.57 6138879.04)</data>
+    </edge>
+    <edge source="35" target="36" id="0">
+      <data key="d10">2.98</data>
+      <data key="d11">495.91</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443642.57 6138879.04, 443400.05 6138446.48)</data>
+    </edge>
+    <edge source="36" target="37" id="0">
+      <data key="d10">2.35</data>
+      <data key="d11">336.32</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443400.05 6138446.48, 443126.54 6138281.29)</data>
+    </edge>
+    <edge source="37" target="38" id="0">
+      <data key="d10">4.9</data>
+      <data key="d11">975.0</data>
+      <data key="d12">tram</data>
+      <data key="d13">route 4</data>
+      <data key="d14">LINESTRING (443126.54 6138281.29, 442370.55 6138105.71)</data>
+    </edge>
+    <edge source="39" target="40" id="0">
+      <data key="d10">4.32</data>
+      <data key="d11">664.72</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 0</data>
+      <data key="d14">LINESTRING (447802.51 6132213.81, 448407.57 6132458.48)</data>
+    </edge>
+    <edge source="40" target="41" id="0">
+      <data key="d10">4.11</data>
+      <data key="d11">621.97</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 0</data>
+      <data key="d14">LINESTRING (448407.57 6132458.48, 448904.45 6132552.66)</data>
+    </edge>
+    <edge source="41" target="42" id="0">
+      <data key="d10">1.6</data>
+      <data key="d11">120.37</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 0</data>
+      <data key="d14">LINESTRING (448904.45 6132552.66, 448931.61 6132455.27)</data>
+    </edge>
+    <edge source="43" target="44" id="0">
+      <data key="d10">2.0</data>
+      <data key="d11">200.59</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (448000.33 6132313.89, 448179.22 6132404.63)</data>
+    </edge>
+    <edge source="44" target="45" id="0">
+      <data key="d10">3.47</data>
+      <data key="d11">493.15</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (448179.22 6132404.63, 447770.11 6132276.82)</data>
+    </edge>
+    <edge source="45" target="46" id="0">
+      <data key="d10">6.12</data>
+      <data key="d11">1024.06</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (447770.11 6132276.82, 447305.76 6133189.48)</data>
+    </edge>
+    <edge source="46" target="47" id="0">
+      <data key="d10">3.08</data>
+      <data key="d11">415.7</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (447305.76 6133189.48, 447116.28 6133559.47)</data>
+    </edge>
+    <edge source="47" target="48" id="0">
+      <data key="d10">4.42</data>
+      <data key="d11">683.63</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (447116.28 6133559.47, 446754.33 6133905.32)</data>
+    </edge>
+    <edge source="48" target="49" id="0">
+      <data key="d10">3.22</data>
+      <data key="d11">443.41</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (446754.33 6133905.32, 446358.46 6133705.62)</data>
+    </edge>
+    <edge source="49" target="50" id="0">
+      <data key="d10">3.48</data>
+      <data key="d11">495.56</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (446358.46 6133705.62, 445906.01 6133518.33)</data>
+    </edge>
+    <edge source="50" target="51" id="0">
+      <data key="d10">3.42</data>
+      <data key="d11">483.09</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (445906.01 6133518.33, 445422.92 6133517.01)</data>
+    </edge>
+    <edge source="51" target="52" id="0">
+      <data key="d10">12.84</data>
+      <data key="d11">2367.26</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 1</data>
+      <data key="d14">LINESTRING (445422.92 6133517.01, 443055.69 6133511.84)</data>
+    </edge>
+    <edge source="53" target="54" id="0">
+      <data key="d10">4.84</data>
+      <data key="d11">767.96</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 2</data>
+      <data key="d14">LINESTRING (440641.06 6133489.77, 441409.02 6133490.15)</data>
+    </edge>
+    <edge source="54" target="55" id="0">
+      <data key="d10">3.49</data>
+      <data key="d11">498.41</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 2</data>
+      <data key="d14">LINESTRING (441409.02 6133490.15, 441709.05 6133779.3)</data>
+    </edge>
+    <edge source="55" target="56" id="0">
+      <data key="d10">2.32</data>
+      <data key="d11">264.0</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 2</data>
+      <data key="d14">LINESTRING (441709.05 6133779.3, 441831.93 6134011.46)</data>
+    </edge>
+    <edge source="56" target="57" id="0">
+      <data key="d10">1.29</data>
+      <data key="d11">57.15</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 2</data>
+      <data key="d14">LINESTRING (441831.93 6134011.46, 441854.32 6134064.03)</data>
+    </edge>
+    <edge source="57" target="58" id="0">
+      <data key="d10">1.15</data>
+      <data key="d11">29.03</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 2</data>
+      <data key="d14">LINESTRING (441854.32 6134064.03, 441865.54 6134090.82)</data>
+    </edge>
+    <edge source="58" target="59" id="0">
+      <data key="d10">1.16</data>
+      <data key="d11">32.63</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 2</data>
+      <data key="d14">LINESTRING (441865.54 6134090.82, 441878.14 6134120.91)</data>
+    </edge>
+    <edge source="59" target="60" id="0">
+      <data key="d10">1.74</data>
+      <data key="d11">147.5</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 2</data>
+      <data key="d14">LINESTRING (441878.14 6134120.91, 441808.06 6134014.04)</data>
+    </edge>
+    <edge source="61" target="62" id="0">
+      <data key="d10">2.67</data>
+      <data key="d11">334.41</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (447766.02 6134964.21, 447468.03 6134812.45)</data>
+    </edge>
+    <edge source="62" target="63" id="0">
+      <data key="d10">2.69</data>
+      <data key="d11">337.72</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (447468.03 6134812.45, 447167.09 6134659.18)</data>
+    </edge>
+    <edge source="63" target="64" id="0">
+      <data key="d10">4.47</data>
+      <data key="d11">694.66</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (447167.09 6134659.18, 446548.02 6134344.07)</data>
+    </edge>
+    <edge source="64" target="65" id="0">
+      <data key="d10">4.49</data>
+      <data key="d11">698.75</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (446548.02 6134344.07, 445924.98 6134027.74)</data>
+    </edge>
+    <edge source="65" target="66" id="0">
+      <data key="d10">2.72</data>
+      <data key="d11">343.76</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (445924.98 6134027.74, 445599.24 6133945.46)</data>
+    </edge>
+    <edge source="66" target="67" id="0">
+      <data key="d10">3.3</data>
+      <data key="d11">460.28</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (445599.24 6133945.46, 445138.96 6133944.32)</data>
+    </edge>
+    <edge source="67" target="68" id="0">
+      <data key="d10">3.76</data>
+      <data key="d11">551.82</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (445138.96 6133944.32, 444587.14 6133943.2)</data>
+    </edge>
+    <edge source="68" target="69" id="0">
+      <data key="d10">3.48</data>
+      <data key="d11">496.79</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (444587.14 6133943.2, 444090.35 6133942.01)</data>
+    </edge>
+    <edge source="69" target="70" id="0">
+      <data key="d10">3.21</data>
+      <data key="d11">441.35</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (444090.35 6133942.01, 443649 6133941.1)</data>
+    </edge>
+    <edge source="70" target="71" id="0">
+      <data key="d10">4.57</data>
+      <data key="d11">713.04</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (443649 6133941.1, 442958.69 6133897.96)</data>
+    </edge>
+    <edge source="71" target="72" id="0">
+      <data key="d10">2.3</data>
+      <data key="d11">259.1</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (442958.69 6133897.96, 442789.67 6133701.59)</data>
+    </edge>
+    <edge source="72" target="73" id="0">
+      <data key="d10">5.05</data>
+      <data key="d11">810.9</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (442789.67 6133701.59, 442153.75 6133509.28)</data>
+    </edge>
+    <edge source="73" target="74" id="0">
+      <data key="d10">5.12</data>
+      <data key="d11">823.99</data>
+      <data key="d12">trolleybus</data>
+      <data key="d13">route 3</data>
+      <data key="d14">LINESTRING (442153.75 6133509.28, 441329.76 6133507.92)</data>
+    </edge>
+    <data key="d0">epsg:32645</data>
+    <data key="d1">public transport graph</data>
+    <data key="d2">200.0</data>
+    <data key="d3">250.0</data>
+    <data key="d4">200.0</data>
+    <data key="d5">283.33</data>
+  </graph>
+</graphml>
