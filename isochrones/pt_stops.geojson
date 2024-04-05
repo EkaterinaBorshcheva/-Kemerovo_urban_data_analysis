@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "index": 19980, "x": 440641.06, "y": 6133489.77, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.064017024876733, 55.344165760375702 ] } },
+{ "type": "Feature", "properties": { "index": 19999, "x": 441329.76, "y": 6133507.92, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.074871183353878, 55.344411507928335 ] } },
+{ "type": "Feature", "properties": { "index": 19940, "x": 441337.1, "y": 6133536.27, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.074980969290337, 55.344667101201424 ] } },
+{ "type": "Feature", "properties": { "index": 19981, "x": 441409.02, "y": 6133490.15, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.076124511839424, 55.344261301953303 ] } },
+{ "type": "Feature", "properties": { "index": 19939, "x": 440492.62, "y": 6133575.05, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.061658631138712, 55.344914030248681 ] } },
+{ "type": "Feature", "properties": { "index": 19982, "x": 441709.05, "y": 6133779.3, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.080794601603131, 55.346894909843741 ] } },
+{ "type": "Feature", "properties": { "index": 19941, "x": 441319.36, "y": 6134839.85, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.074428129955535, 55.356377296452784 ] } },
+{ "type": "Feature", "properties": { "index": 19983, "x": 441831.93, "y": 6134011.46, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.082683837217161, 55.348995366369309 ] } },
+{ "type": "Feature", "properties": { "index": 161, "x": 441808.06, "y": 6134014.04, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.082306922907676, 55.349015721585964 ] } },
+{ "type": "Feature", "properties": { "index": 19984, "x": 441854.32, "y": 6134064.03, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.083025965037095, 55.349470343976506 ] } },
+{ "type": "Feature", "properties": { "index": 19985, "x": 441865.54, "y": 6134090.82, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.083197321375465, 55.349712372674745 ] } },
+{ "type": "Feature", "properties": { "index": 19938, "x": 440499.4, "y": 6133990.53, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.061677270968545, 55.34864781463645 ] } },
+{ "type": "Feature", "properties": { "index": 8585, "x": 441878.14, "y": 6134120.91, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.083389755070385, 55.349984214003328 ] } },
+{ "type": "Feature", "properties": { "index": 19942, "x": 440946.72, "y": 6134975.62, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.068522690484087, 55.357552508139477 ] } },
+{ "type": "Feature", "properties": { "index": 19936, "x": 440921.18, "y": 6134938.94, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.068127636005727, 55.357219879142448 ] } },
+{ "type": "Feature", "properties": { "index": 19943, "x": 440991.98, "y": 6135209.91, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.06918710262542, 55.359662971587881 ] } },
+{ "type": "Feature", "properties": { "index": 19998, "x": 442153.75, "y": 6133509.28, "desc": "trolleybus", "trolleybus": true, "tram": false }, "geometry": { "type": "Point", "coordinates": [ 86.087861954001525, 55.344521375831071 ] } },
+{ "type": "Feature", "properties": { "index": 19944, "x": 441127.02, "y": 6135517.87, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.071252173609693, 55.3624461009681 ] } },
+{ "type": "Feature", "properties": { "index": 19937, "x": 440702.68, "y": 6134562.06, "desc": "tram", "trolleybus": false, "tram": true }, "geometry": { "type": "Point", "coordinates": [ 86.064761491467792, 55.353807407377168 ] } }
+]
+}

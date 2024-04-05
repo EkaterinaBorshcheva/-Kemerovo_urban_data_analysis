@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 1.74, "length_meter": 147.5 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.083389755070385, 55.349984214003328 ], [ 86.082306922907676, 55.349015721585964 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 2.81, "length_meter": 452.16 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.068127636005727, 55.357219879142448 ], [ 86.064761491467792, 55.353807407377168 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 3.45, "length_meter": 612.33 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.064761491467792, 55.353807407377168 ], [ 86.061677270968545, 55.34864781463645 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 2.66, "length_meter": 415.68 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.061677270968545, 55.34864781463645 ], [ 86.061658631138712, 55.344914030248681 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 4.78, "length_meter": 943.84 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.061658631138712, 55.344914030248681 ], [ 86.074980969290337, 55.344667101201424 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 6.34, "length_meter": 1333.8 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.074980969290337, 55.344667101201424 ], [ 86.074428129955535, 55.356377296452784 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 2.6, "length_meter": 400.24 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.074428129955535, 55.356377296452784 ], [ 86.068522690484087, 55.357552508139477 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 2.14, "length_meter": 284.02 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.068522690484087, 55.357552508139477 ], [ 86.06918710262542, 55.359662971587881 ] ] } },
+{ "type": "Feature", "properties": { "type": "tram", "time_min": 2.35, "length_meter": 336.31 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.06918710262542, 55.359662971587881 ], [ 86.071252173609693, 55.3624461009681 ] ] } },
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 4.84, "length_meter": 767.96 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.064017024876733, 55.344165760375702 ], [ 86.076124511839424, 55.344261301953303 ] ] } },
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 3.49, "length_meter": 498.41 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.076124511839424, 55.344261301953303 ], [ 86.080794601603131, 55.346894909843741 ] ] } },
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 2.32, "length_meter": 264.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.080794601603131, 55.346894909843741 ], [ 86.082683837217161, 55.348995366369309 ] ] } },
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 1.29, "length_meter": 57.15 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.082683837217161, 55.348995366369309 ], [ 86.083025965037095, 55.349470343976506 ] ] } },
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 1.15, "length_meter": 29.03 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.083025965037095, 55.349470343976506 ], [ 86.083197321375465, 55.349712372674745 ] ] } },
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 1.16, "length_meter": 32.63 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.083197321375465, 55.349712372674745 ], [ 86.083389755070385, 55.349984214003328 ] ] } },
+{ "type": "Feature", "properties": { "type": "trolleybus", "time_min": 5.12, "length_meter": 823.99 }, "geometry": { "type": "LineString", "coordinates": [ [ 86.087861954001525, 55.344521375831071 ], [ 86.074871183353878, 55.344411507928335 ] ] } }
+]
+}
